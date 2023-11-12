@@ -1,17 +1,17 @@
-# beamercolorthemeqhfz
+# beamercolorthemetsinghua
 
-This project provides a beamer color theme which uses the color of qhfz (Tsinghua University High School). It is based on and modified from the `spruce` theme with miscellaneous improvements.
+This project provides a beamer color theme which uses the color of Tsinghua University. It is based on and modified from the `spruce` theme with miscellaneous improvements.
 
 ## Installation
 
-Just put `beamercolorthemeqhfz.sty` into somewhere the LaTeX compiler can recognize.
+Just put `beamercolorthemetsinghua.sty` into somewhere the LaTeX compiler can recognize.
 
 ## Usage
 
 Put the following command in your document preamble. That's it.
 
 ```latex
-\usecolortheme{qhfz}
+\usecolortheme{tsinghua}
 ```
 
 ## License
